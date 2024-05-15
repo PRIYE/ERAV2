@@ -34,3 +34,6 @@ As per the instruction above, I have added the class 'SafetyVest' as I am trying
 ![image](https://github.com/PRIYE/ERAV2/assets/7592375/4df10905-80a2-4181-b846-4decdc3a2d70)
 ![image](https://github.com/PRIYE/ERAV2/assets/7592375/1c2c7c6a-0161-43f7-a033-343201332e46)
 ![image](https://github.com/PRIYE/ERAV2/assets/7592375/9c38422a-e4e7-4639-a038-0caa92439aaa)
+
+# Performance Metric
+![image](https://github.com/PRIYE/ERAV2/assets/7592375/56bfe648-1857-47d7-a644-9a56dc06ba1f)
