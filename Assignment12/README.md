@@ -29,4 +29,8 @@ As per the instruction above, I have added the class 'SafetyVest' as I am trying
    ![ppe_1328_jpg rf 617faaad15175f0a7eab0002aebb7bb3](https://github.com/PRIYE/ERAV2/assets/7592375/cf5b9f1c-49e9-4a2d-83ca-71eca157f169)
    ![ppe_1321_jpg rf 39c5254b5bc698c579d785c2df811d4f](https://github.com/PRIYE/ERAV2/assets/7592375/e6758f90-caf7-4c04-b3fa-32b5269c08cc)
 
-
+### Training Logs
+![image](https://github.com/PRIYE/ERAV2/assets/7592375/d3613850-bf1f-4f2b-a6c3-114ca5886549)
+![image](https://github.com/PRIYE/ERAV2/assets/7592375/4df10905-80a2-4181-b846-4decdc3a2d70)
+![image](https://github.com/PRIYE/ERAV2/assets/7592375/1c2c7c6a-0161-43f7-a033-343201332e46)
+![image](https://github.com/PRIYE/ERAV2/assets/7592375/9c38422a-e4e7-4639-a038-0caa92439aaa)
