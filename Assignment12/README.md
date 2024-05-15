@@ -8,7 +8,7 @@
 
 As per the instruction above, I have added the class 'SafetyVest' as I am trying to detect Safety Vest in the images of construction workers. The concerned folder in data is marked 'customdata'.
 
-#### Result
+### Result
 
 1. Correct detection (True Positive) 
    ![road_construction_asphalt_work_machinery_street_site_workers-743811_jpg rf 75b24aea212c272f24747b3f729a5517](https://github.com/PRIYE/ERAV2/assets/7592375/25f0df1b-3719-4e35-ad94-bf81c69c348c)
@@ -35,5 +35,5 @@ As per the instruction above, I have added the class 'SafetyVest' as I am trying
 ![image](https://github.com/PRIYE/ERAV2/assets/7592375/1c2c7c6a-0161-43f7-a033-343201332e46)
 ![image](https://github.com/PRIYE/ERAV2/assets/7592375/9c38422a-e4e7-4639-a038-0caa92439aaa)
 
-# Performance Metric
+### Performance Metric
 ![image](https://github.com/PRIYE/ERAV2/assets/7592375/56bfe648-1857-47d7-a644-9a56dc06ba1f)
